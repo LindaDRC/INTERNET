@@ -1,0 +1,17 @@
+.cabecalho{background-color: pink;
+    font-size: 24px;
+    width: 100000px;
+    padding: 10px;
+    }
+
+.corpo{
+    width: 100000px;
+    padding: 10px;
+    background-color: rgb(247, 247, 110);    
+}    
+
+.rodape{
+    width:100000px;
+    padding: 10px;
+    background-color: rgb(120, 120, 177);
+}
